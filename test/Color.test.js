@@ -1,3 +1,5 @@
+const { assert } = require('chai')
+
 const Color = artifacts.require('./Color.sol')
 
 require('chai')
